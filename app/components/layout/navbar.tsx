@@ -29,7 +29,7 @@ const Navbar = () => {
 
     useEffect(() => {
         console.log(path)
-    }, [])
+})
 
     return (
         <ul className="flex gap-2 py-4 px-10 bg-white/20">
