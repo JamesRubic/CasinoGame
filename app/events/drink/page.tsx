@@ -2,8 +2,6 @@
 
 import Layout from "../../components/layout/layout";
 import Link from "next/link";
-import Hamburger from "@/app/components/icons/hamburger";
-import CutleryClassic from "@/app/components/icons/cutleryClassic";
 import Image from "next/image";
 import EventComponent from "@/app/components/events/eventComponent";
 import PartSmComponent from "@/app/components/events/partSmComponent";
