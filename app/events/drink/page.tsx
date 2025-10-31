@@ -1,4 +1,4 @@
-"user client";
+"use client";
 
 import Layout from "../../components/layout/layout";
 import Link from "next/link";
